@@ -1,2 +1,3 @@
-# currency-list
-Web3 Global Currency List
+# Currency List
+
+Global Currency List
